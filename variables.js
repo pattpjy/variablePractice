@@ -5,3 +5,7 @@ var source = "Palisade"
 var amount = 2
 var price = 5
 var batch = 11
+
+var delivery = true
+var paid = false
+var local = true
